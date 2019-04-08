@@ -30,7 +30,7 @@ void main()
 	for(i=0; i<length; i++){
 		scanf("%d", &str[i]);
 	}
-	reversa_str();
+	reversa_str(str);
 	
 	return ;
 }
